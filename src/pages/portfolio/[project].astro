@@ -1,7 +1,6 @@
 ---
 import DefaultLayout from '@layouts/DefaultLayout.astro'
 import PageHeader from '@components/PageHeader.astro'
-import SocialShares from '@components/SocialShares.astro'
 import { getCollection, render } from 'astro:content'
 import type { CollectionEntry } from 'astro:content'
 
@@ -55,13 +54,6 @@ const author = {
   <section class="my-12">
     <div class="narrow space-content container">
       <Content />
-    </div>
-  </section>
-  <section class="my-12">
-    <div class="narrow space-content container">
-      <h2>Share this project</h2>
-      <p>Like this project? Share it with your network!</p>
-      <SocialShares />
     </div>
   </section>
 </DefaultLayout>

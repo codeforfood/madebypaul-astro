@@ -13,6 +13,14 @@ const projects = defineCollection({
     description: z.string(),
   }),
 })
+const posts = defineCollection({
+  loader: glob({ pattern: '**/*.mdx', base: './src/content/posts' }),
+  schema: z.object({
+    title: z.string(),
+    pubDate: z.string(),
+    description: z.string(),
+  }),
+})
 
 // 4. Export a single `collections` object to register you collection(s)
-export const collections = { projects }
+export const collections = { projects, posts }
