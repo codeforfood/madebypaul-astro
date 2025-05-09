@@ -1,0 +1,38 @@
+---
+title: 'Failing My Way to Success'
+description: 'It all started one horribly bright and sunny morning during another miserable jaunt across the all too gorgeous campus at UC Santa Barbara.'
+pubDate: 'Oct 30 2017'
+heroImage: '/blog-placeholder-4.jpg'
+---
+
+>It all started one horribly bright and sunny morning during another miserable jaunt across the all too gorgeous campus at UC Santa Barbara...
+
+I was definitely not enjoying the painfully crisp sea air blowing through my unkempt brown locks of hair, not excited at all about the prospect of finally wrapping up my epically disastrous experience as an undergraduate. This was primarily due to the fact that I was beginning to realize something that would forever change my outlook on life. This was the single most important lesson that my 22 years of life had taught me: despite my best effort and the greatest of intentions I was completely destined for failure.
+
+If it were not for the familiar face of a friend, a roommate of mine, I might have completely forgotten that this was supposed to be a joyous occasion. My time at the university was fraught with ups and downs. I had managed to achieve a stellar 2.7 GPA with the amount of effort that an ant would exert pushing a boulder up Mt. Everest. Halfway through this epic journey I had actually been asked to leave the university and never return. This was not due to any psychotic or drug-induced rage but rather from a prolonged academic probation and my failure to make it through a single quarter without failing a course in one way or another.
+
+However, due to a heartfelt letter and several visits to a psychiatrist, I was able to get back into the university on an appeal. And here I was, taking the final of finals, with roomie giving me a thumbs up and a smile. The professor was also present, glaring at me annoyingly due to my childish grin and my dumbfounded stare across the room full of students who already started their final exams ten minutes prior. I was often inexcusably late to almost all of my classes, even those in which time was of the essence.
+
+When I finished, I jumped up a bit and shot across the room, slamming my blue book down on the professor’s desk. I ran out and before the door managed to slam shut I let out a visceral growl that must have sounded half like a trapped hyena making love to a platypus and half like a cat swinging from a flagpole. It was a beautiful and undoubtedly enjoyable sound for the ears of not only the professor but all of the students still finishing their exams.
+
+This last exam and the graduation walk that occurred a few months earlier set me down on a path of constant awe and wonder at why anyone would even want to get a job. You would imagine that graduating would give you a sense of freedom unlike any other, yet I felt paralyzed by the fear of the working world.
+
+I took on a job as a data entry specialist through a staffing agency that really cared less about its employees then it did about the cleanliness of its bathrooms, adorned with questionable stains and constantly running out of toilet paper. If the smell of urine and chemical pine didn’t get to you, then likely you could survive a month or two. However, I quickly knew this would not last.
+
+A few months later after quitting that position, an ad popped up in the reliable job listing site known as craigslist that peaked my interest. It was calling for a flash developer for a boutique design house. I had no idea what any of the words meant in the job requirements but I had dabbled a bit in flash when attempting to build band websites a few years earlier. I told all of my roommates about it and had a week to quickly build a portfolio demonstrating my best work.
+
+As that week ended and the interview date loomed, I suddenly loss all sense of courage and confidence. I decided that not going to the interview was the best way to prevent the inevitable pangs of rejection and defeat I was sure to experience. My buddy Dave stepped into the house as I was partaking in some water percolated deep breathing techniques and kindly asked “what the hell are you doing?” I told him it was just not going to happen, that surely I was destined for a life of horrible data entry jobs. He said “well you should at least try, what’s the worst that can happen?” It was simple and straightforward advice from a man to whom this day I utterly respect.
+
+So I brushed the ash off my “DARE” shirt from the thrift store and sped down to the Ross discount boutique fashions store around the corner. I had thirty minutes to buy a suitable outfit for an interview, change into it making sure to leave the tags on for easy return later and speed down State street to the tiny office nestled between Trader Joe’s and Flavor of India. I made it with literally a minute to spare, making sure to drop some Visine in for good measure. I went inside half sweaty and dazed but ready for whatever the future held.
+
+Needless to say I landed the job. And a magical eight months later was asked into the boss office to sit and have a chat. He put a letter of resignation in front of me. “We can do this the hard way or the easy way.” I was forced to resigning in light of numerous long lunches, late morning entrances and generally just being a shoddy employee.
+
+Once again I was in a rut, and turned once more to the libations and sense of liberation one magically gets from the bubbly percolators that adorned each domicile I visited. I had mounting debt and very little time to figure out what to do next. I pulled the trail of sorrow with me as I headed back to Los Angeles to try once again to find work.
+
+Back at home, I somehow managed to ignite the romance with the woman who would inspire me to success and one day be my wife. She helped me to get over myself, which is something I still need practice in from time to time. The failure did not stop there but it never felt as bad. Now I was closer to my family, and the family of my love who would support the adventures and mishaps of the next few years.
+
+I had many failures and much success because I managed to learn as grow from each misstep and recognize when I made an improvement. It’s been a long road to my current position, but it’s one that I could have never made without the capability to face the fear of failure and learn from its inevitable appearance in my life.
+
+Now I am a successful designer and have gained so much clout in my work experience that I have been called to teach at a university. This is a very awkward and rewarding surprise since I was such an atrocious student and never thought I would make it half this far. I try my hardest to hold my students to higher standards than I would hold to myself at that age, but always remember that compassion and understanding go right beside the capability to garner trust and respect. I try my best to impart practical, usable knowledge; the kind I wish I had discovered in college.
+
+I have reached success in my mind and I feel it is very much due to the failures I have recovered from. Those failures shaped me to the person I am today — a business owner, entrepreneur, lead designer, educator, husband and father. I will continue to try my hardest, not to outright avoid failure, but to embrace even the smallest defeat as a key to my future victories.
