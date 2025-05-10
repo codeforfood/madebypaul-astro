@@ -22,7 +22,7 @@ export const getStaticPaths = (async ({ paginate }) => {
   const postsWithImages = posts.map((post, index) => {
     return {
       ...post,
-      featuredImage: postImages[index % postImages.length],
+      featuredImage: post.featuredImage,
     }
   })
 
@@ -47,7 +47,7 @@ const totalPages = Math.ceil(page.total / page.size)
   <PageHeader
     title="Blog"
     subtitle='A collection of writings about design and life.'
-    bgType="bordered"
+    bgType="neutral"
   />
   <section class="my-12">
     <div class="container">
@@ -57,10 +57,9 @@ const totalPages = Math.ceil(page.total / page.size)
           page.data.map((post) => (
             <li>
               <Card
-                imageComponent={post.featuredImage}
+                imageComponent={post.data.featuredImage}
                 url={'/blog/' + post.id}
                 title={post.data.title}
-                footer={'Author: ' + post.data.author}
               >
                 {post.data.description}
               </Card>

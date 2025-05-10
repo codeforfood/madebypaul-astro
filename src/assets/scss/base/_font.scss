@@ -1,14 +1,14 @@
 @use 'breakpoint' as *;
 
-// Atkinson Hyperlegible font faces
+// Colfax font faces
 @font-face {
   font-style: normal;
   font-weight: 400;
   src:
-    local('Atkinson Hyperlegible Regular'),
-    local('AtkinsonHyperlegible-Regular'),
-    url('/fonts/AtkinsonHyperlegibleNext-Regular.woff2') format('woff2');
-  font-family: 'Atkinson Hyperlegible';
+    local('Colfax Regular'),
+    local('Colfax-Regular'),
+    url('/fonts/Colfax-Regular.woff2') format('woff2');
+  font-family: 'Colfax';
   font-display: swap;
 }
 
@@ -16,10 +16,10 @@
   font-style: italic;
   font-weight: 400;
   src:
-    local('Atkinson Hyperlegible Italic'),
-    local('AtkinsonHyperlegible-Italic'),
-    url('/fonts/AtkinsonHyperlegibleNext-RegularItalic.woff2') format('woff2');
-  font-family: 'Atkinson Hyperlegible';
+    local('Colfax Italic'),
+    local('Colfax-Italic'),
+    url('/fonts/Colfax-RegularItalic.woff2') format('woff2');
+  font-family: 'Colfax';
   font-display: swap;
 }
 
@@ -27,10 +27,10 @@
   font-style: normal;
   font-weight: 700;
   src:
-    local('Atkinson Hyperlegible Bold'),
-    local('AtkinsonHyperlegible-Bold'),
-    url('/fonts/AtkinsonHyperlegibleNext-Bold.woff2') format('woff2');
-  font-family: 'Atkinson Hyperlegible';
+    local('Colfax Bold'),
+    local('Colfax-Bold'),
+    url('/fonts/Colfax-Bold.woff2') format('woff2');
+  font-family: 'Colfax';
   font-display: swap;
 }
 
@@ -38,10 +38,10 @@
   font-style: italic;
   font-weight: 700;
   src:
-    local('Atkinson Hyperlegible Bold Italic'),
-    local('AtkinsonHyperlegible-BoldItalic'),
-    url('/fonts/AtkinsonHyperlegibleNext-BoldItalic.woff2') format('woff2');
-  font-family: 'Atkinson Hyperlegible';
+    local('Colfax Bold Italic'),
+    local('Colfax-BoldItalic'),
+    url('/fonts/Colfax-BoldItalic.woff2') format('woff2');
+  font-family: 'Colfax';
   font-display: swap;
 }
 
@@ -50,10 +50,10 @@
   font-style: normal;
   font-weight: 300;
   src:
-    local('Atkinson Hyperlegible Light'),
-    local('AtkinsonHyperlegible-Light'),
-    url('/fonts/AtkinsonHyperlegibleNext-Light.woff2') format('woff2');
-  font-family: 'Atkinson Hyperlegible';
+    local('Colfax Light'),
+    local('Colfax-Light'),
+    url('/fonts/Colfax-Light.woff2') format('woff2');
+  font-family: 'Colfax';
   font-display: swap;
 }
 
@@ -61,10 +61,10 @@
   font-style: italic;
   font-weight: 300;
   src:
-    local('Atkinson Hyperlegible Light Italic'),
-    local('AtkinsonHyperlegible-LightItalic'),
-    url('/fonts/AtkinsonHyperlegibleNext-LightItalic.woff2') format('woff2');
-  font-family: 'Atkinson Hyperlegible';
+    local('Colfax Light Italic'),
+    local('Colfax-LightItalic'),
+    url('/fonts/Colfax-LightItalic.woff2') format('woff2');
+  font-family: 'Colfax';
   font-display: swap;
 }
 
@@ -72,10 +72,10 @@
   font-style: normal;
   font-weight: 500;
   src:
-    local('Atkinson Hyperlegible Medium'),
-    local('AtkinsonHyperlegible-Medium'),
-    url('/fonts/AtkinsonHyperlegibleNext-Medium.woff2') format('woff2');
-  font-family: 'Atkinson Hyperlegible';
+    local('Colfax Medium'),
+    local('Colfax-Medium'),
+    url('/fonts/Colfax-Medium.woff2') format('woff2');
+  font-family: 'Colfax';
   font-display: swap;
 }
 
@@ -83,10 +83,10 @@
   font-style: italic;
   font-weight: 500;
   src:
-    local('Atkinson Hyperlegible Medium Italic'),
-    local('AtkinsonHyperlegible-MediumItalic'),
-    url('/fonts/AtkinsonHyperlegibleNext-MediumItalic.woff2') format('woff2');
-  font-family: 'Atkinson Hyperlegible';
+    local('Colfax Medium Italic'),
+    local('Colfax-MediumItalic'),
+    url('/fonts/Colfax-MediumItalic.woff2') format('woff2');
+  font-family: 'Colfax';
   font-display: swap;
 }
 
@@ -94,10 +94,10 @@
   font-style: normal;
   font-weight: 600;
   src:
-    local('Atkinson Hyperlegible SemiBold'),
-    local('AtkinsonHyperlegible-SemiBold'),
-    url('/fonts/AtkinsonHyperlegibleNext-SemiBold.woff2') format('woff2');
-  font-family: 'Atkinson Hyperlegible';
+    local('Colfax SemiBold'),
+    local('Colfax-Medium'),
+    url('/fonts/Colfax-Medium.woff2') format('woff2');
+  font-family: 'Colfax';
   font-display: swap;
 }
 
