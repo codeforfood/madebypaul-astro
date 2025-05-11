@@ -11,6 +11,7 @@ const projects = defineCollection({
     title: z.string(),
     author: z.string(),
     description: z.string(),
+    featuredImage: z.string(),
   }),
 })
 const posts = defineCollection({
@@ -19,6 +20,7 @@ const posts = defineCollection({
     title: z.string(),
     pubDate: z.string(),
     description: z.string(),
+    featuredImage: z.string(),
   }),
 })
 

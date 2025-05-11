@@ -10,13 +10,11 @@ import { Accordion, AccordionItem, Avatar, AvatarGroup } from 'accessible-astro-
 
 <DefaultLayout title="Home">
   <Hero />
-
-  <a name="about"></a>
-  <section class="mt-64 mb-32">
+  <section class="mt-64 mb-32" id="about">
     <div class="container">
       <h2 class="mb-16 text-6xl text-center">About Paul</h2>
-      <div class="grid grid-cols-1 gap-12 sm:grid-cols-1 md:grid-cols-3">
-        <Counter count="20" title="Years" sub="in Tech Industry" />
+      <div class="grid grid-cols-1 gap-12 sm:grid-cols-1 md:grid-cols-3 divide-x-2">
+        <Counter count="20" title="Years" sub="in Tech Industry"/>
         <Counter count="16" title="Years" sub="as a UX Designer" />
         <Counter count="7+" title="Years" sub="as a Design Team Lead" />
       </div>
@@ -25,7 +23,7 @@ import { Accordion, AccordionItem, Avatar, AvatarGroup } from 'accessible-astro-
           <image src="its-me-award.png" alt="Paul holding an award for digital accessibility work">
         </div>
         <div class="flex-1 p-8 pr-16 text-lg">
-            <p class="pb-4">At the <a href="https://jpl.nasa.gov" rel="nofollow">NASA Jet Propulsion Laboratory</a>, I design and build digital products in the Enterprise Business Information Services division. I also lead the Lab's efforts on digital accessibility.</p>
+            <p class="pb-4">Currently working at the <a href="https://jpl.nasa.gov" rel="nofollow">NASA Jet Propulsion Laboratory</a>, where I design and build digital products in the Enterprise Business Information Services division. I also lead the Lab's efforts on digital accessibility.</p>
             <p class="pb-4">I work closely with our business partners and cross-functional engineering teams on projects that span institutional finance, flight project scheduling, business reporting, payroll and timekeeping, contract management, and supply chain information management systems.</p>
             <p class="pb-4">Empathy, creativity, and curiosity are my guiding pillars. My projects span across design disciplines as I lead teams that design and build enterprise web applications, improve digital services, conduct user research, and provide usability and accessibility testing. I use my abilities in product strategy, interaction design and web development to collaborate and lead teams.</p>
             <p class="pb-4">I'm a father, designer, researcher, educator, and learner.</p>
