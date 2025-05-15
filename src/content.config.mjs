@@ -9,18 +9,17 @@ const projects = defineCollection({
   loader: glob({ pattern: '**/*.mdx', base: './src/content/projects' }),
   schema: z.object({
     title: z.string(),
-    author: z.string(),
     description: z.string(),
-    featuredImage: z.string(),
+    featuredImage: z.string().optional(),
   }),
 })
 const posts = defineCollection({
   loader: glob({ pattern: '**/*.mdx', base: './src/content/posts' }),
   schema: z.object({
     title: z.string(),
-    pubDate: z.string(),
+    pubDate: z.date(),
     description: z.string(),
-    featuredImage: z.string(),
+    featuredImage: z.string().optional(),
   }),
 })
 

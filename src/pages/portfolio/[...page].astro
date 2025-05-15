@@ -6,23 +6,13 @@ import { getCollection } from 'astro:content'
 import type { GetStaticPaths, Page } from 'astro'
 import type { CollectionEntry } from 'astro:content'
 
-// Import images directly for optimization
-import projectImage1 from '@assets/images/projects/project-image-1.png'
-import projectImage2 from '@assets/images/projects/project-image-2.png'
-import projectImage3 from '@assets/images/projects/project-image-3.png'
-import projectImage4 from '@assets/images/projects/project-image-4.png'
-import projectImage5 from '@assets/images/projects/project-image-5.png'
-import projectImage6 from '@assets/images/projects/project-image-6.png'
-
 export const getStaticPaths = (async ({ paginate }) => {
   const projects = await getCollection('projects')
-
-  const projectImages = [projectImage1, projectImage2, projectImage3, projectImage4, projectImage5, projectImage6]
 
   const projectsWithImages = projects.map((project, index) => {
     return {
       ...project,
-      featuredImage: projectImages[index % projectImages.length],
+      featuredImage: project.featuredImage,
     }
   })
 
@@ -52,15 +42,14 @@ const totalPages = Math.ceil(page.total / page.size)
   <section class="my-12">
     <div class="container">
       <p class="text-sm"><em>Project {page.start + 1} through {page.end + 1} of {page.total} total projects</em></p>
-      <ul class="my-3 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+      <ul class="my-3 grid grid-cols-1 gap-6 md:grid-cols-1 lg:grid-cols-2">
         {
           page.data.map((project) => (
             <li>
               <Card
-                imageComponent={project.featuredImage}
+                imageComponent={project.data.featuredImage}
                 url={'/portfolio/' + project.id}
                 title={project.data.title}
-                footer={'Author: ' + project.data.author}
               >
                 {project.data.description}
               </Card>
